@@ -103,9 +103,9 @@ Es la forma de presentar y analizar datos para ayudar a las personas a tomar dec
 
 ## 6. Principales categorías de herramientas para MSS (Management Support Systems)
 
-1. **Sistemas de apoyo a la toma de decisiones (DSS)**: Ayudan a los gerentes a tomar decisiones en problemas específicos mediante modelos y análisis.
-2. **Sistemas de información ejecutiva (EIS)**: Proporcionan información crítica y visualizaciones para la toma de decisiones de altos ejecutivos.
-3. **Sistemas de apoyo a decisiones en grupo (GDSS)**: Facilitan la toma de decisiones en equipo, ofreciendo herramientas de colaboración y comunicación.
+1. **Sistemas de apoyo a la toma de decisiones (DSS)**: Ayudan en problemas específicos con modelos y análisis.
+2. **Sistemas de información ejecutiva (EIS)**: Se enfoca en mostrar solo la información crucial para la dirección y estrategia de la empresa, permitiendo a los altos ejecutivos ver datos clave sin entrar en detalles operativos.
+3. **Sistemas de apoyo a decisiones en grupo (GDSS)**: Toma de decisiones en equipo, ofreciendo herramientas de colaboración y comunicación.
 4. **Sistemas de inteligencia de negocios (BI)**: Analizan grandes volúmenes de datos para identificar tendencias y guiar decisiones estratégicas.
 5. **Sistemas de gestión del conocimiento (KMS)**: Almacenan y gestionan el conocimiento de la organización para ayudar en la toma de decisiones.
 
